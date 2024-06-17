@@ -13,10 +13,9 @@ Similarly can the types of violations be grouped or correlated based on type of 
 Are the higher risk/lower risk values correlated with geographic location?
 
 Do some of the chain restaurants share the risk levels across their locations, indicating an issue in overall policy, or are the issues only isolated to one or a few of their locations?
+## For Stakeholders
 
 What locations need more attention to avoid being at risk. More analysis may be needed to see if these locations are profitable, or at least as profitable as their lower-risk counterparts. 
-
-## For Stakeholders
 
 Are competitors with either a high risk or lower risk store, able to make more of a profit than any of our locations in the same areas?
 
